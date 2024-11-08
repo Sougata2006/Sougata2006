@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sougata Paul</h1>
-<h3 align="center">1st-year Computer Science student</h3>
+
+I'm a student at Netaji Subhas Engineering College , where I'm pursuing my bachelor degree in CSE ( AI & ML ) .
+
+I'm eager to build a strong foundation in engineering and actively seek opportunities to upscale my skills and knowledge . I'm committed to academic excellence and personal growth . I look forward to connecting with professionals and exploring opportunities that will enhance my educational journey and future career .
+
+As I'm embark on my journey at my college , I'm excited to explore new challenges and opportunities in this field of engineering .
+
+---
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/penguin-data-coding-animation-sxihbi0j123pp3uv.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sougata2006&label=Profile%20views&color=0e75b6&style=flat" alt="sougata2006" /> </p>
 
