@@ -19,7 +19,9 @@ As I'm embark on my journey at my college , I'm excited to explore new challenge
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sougata_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sougata_2006" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sougata paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougata paul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sougata-paul" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougata paul" height="30" width="40" />
+</a>
 <a href="https://fb.com/sougata paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sougata paul" height="30" width="40" /></a>
 <a href="https://instagram.com/sougata_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sougata_2006" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sougata_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sougata_paul" height="30" width="40" /></a>
