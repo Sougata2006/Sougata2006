@@ -1,3 +1,5 @@
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://in-imitable.io)
+
 <h1 align="center">Hi 👋, I'm Sougata Paul</h1>
 
 I'm a student at Netaji Subhas Engineering College , where I'm pursuing my bachelor degree in CSE ( AI & ML ) .
