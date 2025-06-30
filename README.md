@@ -12,8 +12,6 @@ As I'm embark on my journey at my college , I'm excited to explore new challenge
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/penguin-data-coding-animation-sxihbi0j123pp3uv.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sougata2006&label=Profile%20views&color=0e75b6&style=flat" alt="sougata2006" /> </p>
 
-- 🌱 I’m currently learning **Java**
-
 - 📫 How to reach me **psougata32@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
