@@ -9,9 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/sougata_2006" target="blank"><img src="https://img.shields.io/twitter/follow/sougata_2006?logo=twitter&style=for-the-badge" alt="sougata_2006" /></a> </p>
 
-- 📫 How to reach me **work.sougata06@gmail.com**  
-- <div align="right"><img src="https://imgs.search.brave.com/sNSjDm2hToSXuj-ku4WetpW-DnssN-PZi5Uh5P4Ghjo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNWE5pTlc1dmF6/Rm9PVzlwZFRCc04z/bHhibXM0YUhvd2My/bzJlbmt4Y3pZeWIz/SnZlRzF1Y0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMkl1ZFVIZEkw/NzVITDAyUGtrLzIw/MC5naWY.gif" alt="Data Coding GIF by Pudgy Penguins" width="200"></div>  
-- ⚡ Fun fact **I think I am funny**
+- 📫 How to reach me **work.sougata06@gmail.com**
+- - <img crossorigin="anonymous" loading="lazy" class="svelte-rxj0ap" src="https://imgs.search.brave.com/sNSjDm2hToSXuj-ku4WetpW-DnssN-PZi5Uh5P4Ghjo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNWE5pTlc1dmF6/Rm9PVzlwZFRCc04z/bHhibXM0YUhvd2My/bzJlbmt4Y3pZeWIz/SnZlRzF1Y0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMkl1ZFVIZEkw/NzVITDAyUGtrLzIw/MC5naWY.gif" alt="Data Coding GIF by Pudgy Penguins">
+-  - ⚡ Fun fact **I think I am funny**  i want to align the gif to right 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
