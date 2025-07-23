@@ -33,3 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sougata2006&show_icons=true&locale=en" alt="sougata2006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sougata2006&" alt="sougata2006" /></p>
+
+### 🔥 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sougata2006&theme=react-dark)
