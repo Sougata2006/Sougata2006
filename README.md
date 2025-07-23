@@ -37,3 +37,5 @@
 ### 🔥 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sougata2006&theme=react-dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sougata2006&theme=react-dark)
