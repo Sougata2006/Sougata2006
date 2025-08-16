@@ -1,7 +1,7 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://in-imitable.io)
 
 # 💫 About Me:
-🔭 I’m currently pursuing B.Tech in CSE (AIML), 2nd Year<br>🌱 Learning Full Stack Web Development <br>💬 Ask me about Web Development, Java, or SQL<br>🌐 Languages: English, Hindi, Bengali<br>⚡ Tech enthusiast with a passion for programming and building innovative solutions<br>📍 Based in India
+🔭 I’m currently pursuing B.Tech in CSE (AIML), 2nd Year.<br>🌱 Learning Full Stack Web Development. <br>💬 Ask me about Web Development, Java, or SQL.<br>🌐 Languages: English, Hindi, Bengali.<br>⚡ Tech enthusiast with a passion for programming and building innovative solutions.<br>📍 Based in India.
 
 
 ## 🌐 Socials:
