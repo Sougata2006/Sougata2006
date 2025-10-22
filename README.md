@@ -40,12 +40,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sougata2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🌸 Hacktoberfest Contributions  
+## 🎖️ Hacktoberfest Contributions  
 Check out my Hacktoberfest achievements and digital badges below 👇  
 
 ![Hacktoberfest 2025 Badge](https://holopin.me/sougata2006)  
-
-🔗 [View my full Holopin profile](https://holopin.io/@sougata2006)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sougata2006&icon=2&color=3)](https://visitcount.itsvg.in)
