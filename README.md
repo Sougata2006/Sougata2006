@@ -41,8 +41,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Sougata2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🎖️ Hacktoberfest Contributions  
-Check out my Hacktoberfest achievements and digital badges below 👇  
-
 ![Hacktoberfest 2025 Badge](https://holopin.me/sougata2006)  
 
 ---
