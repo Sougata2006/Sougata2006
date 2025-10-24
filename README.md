@@ -40,7 +40,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sougata2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🎖️ Hacktoberfest'25 Contributions  
+## 🎖️ Hacktoberfest'25 Badges  
 ![Hacktoberfest 2025 Badge](https://holopin.me/sougata2006)  
 
 
