@@ -43,6 +43,4 @@
 ## 🎖️ Hacktoberfest Contributions  
 ![Hacktoberfest 2025 Badge](https://holopin.me/sougata2006)  
 
----
-[![](https://visitcount.itsvg.in/api?id=Sougata2006&icon=2&color=3)](https://visitcount.itsvg.in)
 
