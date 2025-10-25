@@ -47,7 +47,8 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sougata2006&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Sougata's GitHub Trophies"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=Sougata2006&theme=radical&no-frame=true&no-bg=true&margin-w=4](https://github-profile-trophies.vercel.app/?username=Sougata2006&theme=radical&margin-w=15
+)" alt="Sougata's GitHub Trophies"/>
 </p>
 
 
