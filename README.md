@@ -1,5 +1,8 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://in-imitable.io)
 
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Sougata2006&color=blueviolet&style=for-the-badge)
+
 # 💫 About Me:
 🔭 I’m currently pursuing **B.Tech in CSE (AIML)**, 2nd Year.<br>
 🌱 Learning **Full Stack Web Development**.<br>
