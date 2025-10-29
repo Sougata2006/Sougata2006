@@ -67,8 +67,9 @@
 
 ## 🏅 HackerRank Achievements
 
-[![Java Badge](https://img.shields.io/badge/Java-5%20Stars-brightgreen?logo=java&logoColor=white)](https://www.hackerrank.com/psougata32)
-[![SQL Badge](https://img.shields.io/badge/SQL-5%20Stars-blue?logo=databricks&logoColor=white)](https://www.hackerrank.com/psougata32)
-[![C Badge](https://img.shields.io/badge/C%20Language-5%20Stars-orange?logo=c&logoColor=white)](https://www.hackerrank.com/psougata32)
+[![Java](https://img.shields.io/badge/Java-brightgreen?logo=java&logoColor=white)](https://www.hackerrank.com/psougata32) ⭐⭐⭐⭐⭐  
+[![SQL](https://img.shields.io/badge/SQL-blue?logo=databricks&logoColor=white)](https://www.hackerrank.com/psougata32) ⭐⭐⭐⭐⭐  
+[![C Language](https://img.shields.io/badge/C%20Language-orange?logo=c&logoColor=white)](https://www.hackerrank.com/psougata32) ⭐⭐⭐⭐⭐  
 
 Check out my full profile on [HackerRank](https://www.hackerrank.com/psougata32).
+
