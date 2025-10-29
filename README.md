@@ -64,3 +64,11 @@
 
 ## 🎖️ Hacktoberfest'25 Badges  
 [![Hacktoberfest 2025 Badge](https://holopin.me/sougata2006)](https://holopin.me/sougata2006)
+
+## 🏅 HackerRank Achievements
+
+[![Java Badge](https://img.shields.io/badge/Java-5%20Stars-brightgreen?logo=java&logoColor=white)](https://www.hackerrank.com/psougata32)
+[![SQL Badge](https://img.shields.io/badge/SQL-5%20Stars-blue?logo=databricks&logoColor=white)](https://www.hackerrank.com/psougata32)
+[![C Badge](https://img.shields.io/badge/C%20Language-5%20Stars-orange?logo=c&logoColor=white)](https://www.hackerrank.com/psougata32)
+
+Check out my full profile on [HackerRank](https://www.hackerrank.com/psougata32).
