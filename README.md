@@ -57,10 +57,3 @@
 
 ---
 
-## 🏅 HackerRank Achievements
-
-[![Java](https://img.shields.io/badge/Java-brightgreen?logo=java&logoColor=white)](https://www.hackerrank.com/psougata32) ⭐⭐⭐⭐⭐  
-[![SQL](https://img.shields.io/badge/SQL-blue?logo=databricks&logoColor=white)](https://www.hackerrank.com/psougata32) ⭐⭐⭐⭐⭐  
-[![C Language](https://img.shields.io/badge/C%20Language-orange?logo=c&logoColor=white)](https://www.hackerrank.com/psougata32) ⭐⭐⭐⭐⭐  
-
-Check out my full profile on [HackerRank](https://www.hackerrank.com/psougata32).
