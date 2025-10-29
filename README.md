@@ -62,21 +62,10 @@
 
 ---
 
-## 🎖️ Hacktoberfest'25 Badges  
-[![Hacktoberfest 2025 Badge](https://holopin.me/sougata2006)](https://holopin.me/sougata2006)
+## 🏅 HackerRank Achievements
 
-<h2 align="center">🏅 HackerRank Achievements</h2>
+[![Java](https://img.shields.io/badge/Java-brightgreen?logo=java&logoColor=white)](https://www.hackerrank.com/psougata32) ⭐⭐⭐⭐⭐  
+[![SQL](https://img.shields.io/badge/SQL-blue?logo=databricks&logoColor=white)](https://www.hackerrank.com/psougata32) ⭐⭐⭐⭐⭐  
+[![C Language](https://img.shields.io/badge/C%20Language-orange?logo=c&logoColor=white)](https://www.hackerrank.com/psougata32) ⭐⭐⭐⭐⭐  
 
-<p align="center">
-  <a href="https://www.hackerrank.com/psougata32">
-    <img src="https://img.shields.io/badge/Java-brightgreen?logo=java&logoColor=white" /> ⭐⭐⭐⭐⭐
-    <img src="https://img.shields.io/badge/SQL-blue?logo=databricks&logoColor=white" /> ⭐⭐⭐⭐⭐
-    <img src="https://img.shields.io/badge/C%20Language-orange?logo=c&logoColor=white" /> ⭐⭐⭐⭐⭐
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/psougata32"><b>Check out my full profile on HackerRank</b></a>
-</p>
-
-
+Check out my full profile on [HackerRank](https://www.hackerrank.com/psougata32).
