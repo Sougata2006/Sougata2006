@@ -28,7 +28,7 @@ USERNAME = os.environ.get("GH_USERNAME", "Sougata2006")
 STATIC_FIELDS = [
     ("OS", "Windows 11, Android 16"),
     ("Student", "2nd Year, CSE (AI & ML)"),
-    ("Languages.Programming", "Java, Python, JavaScript, C/C++"),
+    ("Languages.Programming", "Java"),
     ("Languages.Real", "English, Bengali, Hindi"),
     ("Hobbies", "Listening to Music, Playing Games"),
 ]
