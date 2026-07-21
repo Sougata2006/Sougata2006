@@ -1,0 +1,40 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # lets you trigger it manually from the Actions tab
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write            # <-- required, or the final "git push" step fails silently
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests lxml python-dateutil
+
+      - name: Generate SVGs
+        run: python3 today.py
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: Sougata2006
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg cache/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update profile stats"
+          git push
