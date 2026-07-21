@@ -1,68 +1,131 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://in-imitable.io)
+<table>
+<tr>
+<td>
 
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Sougata2006&color=blueviolet&style=for-the-badge)
+```text
+                                                                                                                                             
+                                                      ÆÆÆÆÆÆÆÆÆÆ ÆÆÆÆ                                                                        
+                                                   Æ       Æ  Æ         ÆÆÆ                                                                 
+                                                       Æ Æ  ÆÆ             ÆÆ    ÆÆÆÆ                                                        
+                                              Æ    ÆÆÆÆ ÆÆÆÆÆ          Æ Æ  Æ Æ    Æ                                                         
+                                             Æ   Æ     Æ  Æ Æ        Æ        Æ Æ    Æ                                                       
+                                         Æ ÆÆÆ Æ   ÆÆÆÆÆÆÆ  Æ                    Æ Æ       Æ                                                 
+                                       ÆÆÆÆÆÆ  Æ ÆÆÆ  ÆÆÆÆ  Æ    Æ Æ Æ   ÆÆÆ  Æ  Æ    Æ    Æ ÆÆ                                              
+                                     ÆÆÆ  ÆÆ  Æ       Æ   Æ Æ    Æ     ÆÆÆÆÆ   ÆÆÆ   ÆÆ    Æ                                                 
+                                    Æ             Æ  Æ    Æ     Æ   ÆÆ Æ Æ       Æ  Æ Æ Æ                                                    
+                                    ÆÆ ÆÆÆ      Æ Æ         Æ  Æ   Æ  ÆÆÆ  Æ ÆÆ   Æ   Æ   ÆÆ                                                 
+                                   Æ ÆÆÆÆ   Æ                                               ÆÆ                                               
+                                   Æ Æ  Æ     ÆÆÆÆ     Æ      ÆÆÆÆ                                                                           
+                                   ÆÆÆÆ ÆÆÆÆÆÆÆ     ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ          Æ                                            
+                                    ÆÆÆÆ          ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ           Æ                                        
+                                         Æ      ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ    Æ                                              
+                                    Æ  ÆÆÆ Æ   ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ    Æ                                             
+                                      ÆÆ      ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ   Æ                                             
+                                      Æ ÆÆ   ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  Æ                                             
+                                      ÆÆÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                               
+                                      Æ  Æ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                               
+                                       ÆÆÆ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                               
+                                       ÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                               
+                                        ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                              
+                                        Æ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                               
+                                          ÆÆÆÆÆ     ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                              
+                                          ÆÆÆ   ÆÆÆ       ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ          ÆÆÆÆÆÆ                                              
+                                          ÆÆ ÆÆÆÆÆÆÆÆÆÆÆ    ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                ÆÆÆÆ                                              
+                                       ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆ                                              
+                                       ÆÆÆÆÆÆÆÆÆÆ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                             
+                                       ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ   ÆÆÆÆÆÆÆÆÆÆ     ÆÆÆÆÆÆÆÆÆÆ ÆÆÆÆÆÆÆÆÆ                                             
+                                       ÆÆÆÆÆÆÆ    ÆÆ     ÆÆÆÆÆÆÆÆ    ÆÆ  ÆÆÆ    Æ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                           
+                                        ÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ   ÆÆÆ    ÆÆÆÆÆÆÆÆÆ                                           
+                                        ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ ÆÆÆÆÆÆÆ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                           
+                                         ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                           
+                                         ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                            
+                                        ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                            
+                                        ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                             
+                                        ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                              
+                                         ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                               
+                                         ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ   ÆÆÆÆÆÆ    ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                               
+                                         ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                                
+                                         ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                                 
+                                          ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ Æ ÆÆÆÆÆÆ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                                 
+                                           ÆÆÆÆÆÆÆÆÆÆÆÆÆÆ        Æ      ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                                  
+                                           ÆÆÆÆÆÆÆÆÆÆ  Æ ÆÆÆÆÆÆÆÆÆÆ ÆÆ   ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ                                                     
+                                             ÆÆÆÆÆÆ       Æ    ÆÆÆÆ  ÆÆÆÆ      ÆÆÆÆÆÆÆ  Æ                                                    
+                                               ÆÆÆÆÆ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ     ÆÆÆÆÆ ÆÆ  Æ                                                  
+                                            Æ  ÆÆÆÆ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ ÆÆÆÆÆ  Æ     Æ Æ                                              
+                                        ÆÆÆÆ Æ      ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆ Æ       Æ  Æ                                              
+                                 Æ   ÆÆÆÆÆ  ÆÆÆÆ Æ  Æ  ÆÆÆÆÆÆ          ÆÆÆ ÆÆ    Æ        Æ   Æ  Æ                                           
+                                Æ  ÆÆÆÆÆ   Æ ÆÆ  Æ   Æ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ Æ           Æ     Æ ÆÆ Æ                                         
+                              ÆÆ ÆÆÆÆÆÆÆ  ÆÆÆÆ   ÆÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  Æ Æ    Æ     Æ   Æ   Æ                                             
+                             ÆÆ  ÆÆÆÆÆÆ  Æ ÆÆÆ  ÆÆÆÆÆÆ   ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ Æ   ÆÆ     Æ  Æ   ÆÆ   ÆÆ                                         
+                      ÆÆÆÆÆ ÆÆ  ÆÆ ÆÆÆÆÆÆÆÆÆÆ   ÆÆÆÆÆÆÆ      ÆÆ   Æ ÆÆ         Æ     Æ      Æ   ÆÆ   ÆÆ                                      
+                    ÆÆÆ    ÆÆÆ ÆÆÆÆÆÆÆÆ  Æ  Æ  ÆÆÆÆÆÆÆÆÆÆÆ Æ              Æ  ÆÆ    ÆÆ  ÆÆÆÆ   ÆÆ    ÆÆ  Æ  Æ                                 
+                  ÆÆ Æ Æ   ÆÆ  ÆÆ Æ ÆÆÆÆÆÆÆ   ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ        Æ   ÆÆ     ÆÆ  ÆÆÆ  ÆÆ   ÆÆ  Æ   Æ  ÆÆÆÆ                              
+                ÆÆÆ  ÆÆÆÆ  ÆÆ  ÆÆÆÆÆÆÆÆÆÆÆ Æ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ      ÆÆ   ÆÆÆÆ   ÆÆ  ÆÆ      Æ             ÆÆÆ                           
+               ÆÆÆÆÆÆÆ  Æ  ÆÆÆ  ÆÆÆÆÆ ÆÆ   Æ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ         ÆÆ ÆÆ       ÆÆ       ÆÆ  Æ   Æ                            
+              ÆÆÆÆ ÆÆÆ  ÆÆ ÆÆ  ÆÆÆ ÆÆÆÆ ÆÆ Æ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ Æ  Æ  ÆÆÆÆ Æ ÆÆ   Æ Æ Æ   ÆÆ   Æ        Æ                        
+             ÆÆÆÆÆ  ÆÆ  ÆÆ ÆÆÆ  ÆÆ ÆÆ ÆÆ  ÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ       Æ ÆÆ   Æ ÆÆ    ÆÆ Æ          Æ       ÆÆÆÆ                     
+            ÆÆÆ  Æ  Æ   ÆÆ  ÆÆ  Æ ÆÆ ÆÆÆ ÆÆ Æ   ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ Æ Æ  ÆÆ Æ    ÆÆ Æ     ÆÆ  Æ   ÆÆÆ  ÆÆÆÆÆÆ   ÆÆ   ÆÆÆ                  
+            ÆÆ   Æ ÆÆ  ÆÆÆÆ ÆÆ  ÆÆÆÆÆÆ   ÆÆ ÆÆÆ    ÆÆÆÆÆÆÆÆÆÆÆÆÆÆ          ÆÆ Æ    Æ       ÆÆÆÆÆ   ÆÆÆ   ÆÆ     Æ         ÆÆÆ                
+           ÆÆÆ  ÆÆ ÆÆ Æ Æ Æ Æ  ÆÆÆ ÆÆ   ÆÆ  ÆÆÆÆÆ                 ÆÆÆÆÆ  Æ   ÆÆ  ÆÆ   ÆÆ  ÆÆ  Æ    ÆÆ    Æ     ÆÆÆÆ   ÆÆ  ÆÆÆÆ               
+           ÆÆÆÆ Æ  Æ  ÆÆÆÆ  ÆÆ Æ Æ ÆÆ  ÆÆÆ  Æ Æ  Æ ÆÆÆÆÆÆÆÆÆÆÆÆÆ  ÆÆ   Æ  ÆÆ Æ   Æ  ÆÆÆ  ÆÆ  Æ   ÆÆ    ÆÆ    ÆÆ                              
+            ÆÆ  Æ ÆÆ Æ Æ     ÆÆÆÆÆÆÆÆ  ÆÆ  ÆÆÆ ÆÆ ÆÆ     ÆÆ    Æ         ÆÆ  Æ  ÆÆ ÆÆÆ  Æ  ÆÆ   ÆÆÆ   ÆÆ    ÆÆ Æ      Æ Æ  ÆÆÆÆÆÆ            
+          ÆÆÆÆ  Æ Æ  ÆÆÆÆÆÆÆ ÆÆ ÆÆÆÆÆÆ ÆÆÆ  ÆÆÆ ÆÆÆÆÆÆ ÆÆ  ÆÆÆÆÆÆ     ÆÆÆ  Æ   ÆÆ      Æ  Æ     ÆÆÆÆ  Æ    ÆÆÆÆÆ  Æ       ÆÆ   ÆÆÆÆ          
+         Æ   Æ  Æ Æ   Æ ÆÆÆÆ  ÆÆÆÆÆÆÆ ÆÆÆ  ÆÆ ÆÆ ÆÆÆÆÆÆ  ÆÆ Æ Æ      ÆÆÆ  Æ ÆÆ Æ  ÆÆ ÆÆ       ÆÆÆ    ÆÆ     Æ Æ      ÆÆÆÆÆÆ    Æ  ÆÆ         
+         Æ   Æ  ÆÆ  ÆÆÆ  ÆÆ    ÆÆÆÆ  ÆÆ  Æ ÆÆÆÆÆÆÆÆÆÆ  ÆÆÆÆÆ ÆÆ     ÆÆ    Æ Æ  Æ ÆÆ ÆÆ  Æ  Æ ÆÆÆÆ   ÆÆ ÆÆ Æ  Æ  Æ   ÆÆÆÆ  Æ   ÆÆÆÆÆÆÆ        
+        ÆÆ   Æ  ÆÆ   Æ  ÆÆÆ  Æ  Æ ÆÆÆ    Æ ÆÆÆ ÆÆÆÆ Æ ÆÆ  ÆÆÆÆ     ÆÆ    ÆÆ ÆÆ ÆÆÆ  ÆÆ ÆÆ  ÆÆÆÆÆ Æ  ÆÆ Æ ÆÆÆ Æ     ÆÆÆÆ ÆÆ    ÆÆÆ   ÆÆ       
+       ÆÆ    Æ  ÆÆ Æ ÆÆÆÆÆ  ÆÆ           Æ Æ ÆÆÆÆÆ   ÆÆÆÆÆÆ Æ     ÆÆÆ  ÆÆ   ÆÆ ÆÆ  ÆÆ ÆÆ   ÆÆ ÆÆ Æ  Æ ÆÆ Æ      ÆÆÆÆÆÆ Æ    ÆÆÆ  ÆÆÆÆÆÆÆ     
+      ÆÆ Æ   Æ  Æ   ÆÆ ÆÆÆ ÆÆ   ÆÆÆÆ  Æ Æ  Æ ÆÆÆ  ÆÆÆÆ  ÆÆÆÆ Æ    ÆÆ   Æ  Æ ÆÆ ÆÆ ÆÆ  Æ  ÆÆ  Æ Æ   ÆÆ ÆÆ Æ ÆÆ ÆÆ ÆÆÆ  Æ    ÆÆ   ÆÆ   ÆÆÆÆÆ   
+       Æ     Æ  ÆÆ  Æ  ÆÆ  ÆÆ Æ Æ ÆÆ    Æ ÆÆÆÆ ÆÆÆÆÆ  ÆÆÆÆÆ Æ    ÆÆ   ÆÆ  Æ Æ  Æ  ÆÆ  Æ Æ Æ ÆÆÆÆÆ  Æ  ÆÆ ÆÆÆÆ ÆÆÆÆ  Æ Æ   ÆÆ  Æ   ÆÆÆÆ  ÆÆ   
+     Æ Æ  Æ  Æ  Æ   Æ  ÆÆ ÆÆÆ   Æ ÆÆ    Æ ÆÆÆ Æ ÆÆÆÆÆÆÆÆÆÆÆ     ÆÆ   ÆÆ  ÆÆ Æ  Æ ÆÆÆ  Æ Æ         ÆÆ ÆÆÆ ÆÆÆ  ÆÆÆÆ Æ Æ  ÆÆ  Æ   ÆÆÆÆÆÆÆÆÆÆÆ  
+       Æ     Æ  Æ   Æ ÆÆ  ÆÆ Æ Æ ÆÆÆÆ   Æ Æ ÆÆ  ÆÆÆ ÆÆÆÆÆ      ÆÆ   ÆÆ ÆÆÆ  Æ ÆÆ ÆÆ     ÆÆ   Æ    Æ  ÆÆ ÆÆÆÆ ÆÆÆÆ   ÆÆ ÆÆ Æ  ÆÆÆ  Æ ÆÆÆ   ÆÆ 
+   Æ   Æ Æ Æ Æ  Æ   Æ ÆÆ ÆÆ Æ  ÆÆÆ ÆÆ   Æ ÆÆÆÆÆÆÆÆ   ÆÆ Æ Æ    Æ    ÆÆ        Æ  ÆÆ  ÆÆÆÆ   ÆÆ    Æ  Æ    Æ ÆÆÆÆ   Æ   ÆÆÆÆÆÆÆÆ  Æ  ÆÆ    Æ  
+       ÆÆ  Æ Æ  Æ   Æ Æ  ÆÆÆ Æ   Æ ÆÆ   Æ ÆÆ Æ Æ   ÆÆÆÆ  Æ    ÆÆ   ÆÆ Æ    ÆÆ ÆÆ Æ         Æ     ÆÆ  ÆÆ ÆÆ ÆÆÆÆÆ  Æ  ÆÆÆ  ÆÆÆ   Æ  Æ    ÆÆ   
+  ÆÆÆ  Æ    Æ Æ Æ   ÆÆ  ÆÆÆÆ    ÆÆÆ Æ         Æ   ÆÆÆÆ Æ Æ   ÆÆ    Æ ÆÆÆÆ        Æ   Æ Æ   ÆÆ   ÆÆ   Æ  ÆÆ  ÆÆÆ  ÆÆ ÆÆ  Æ ÆÆ      Æ  ÆÆÆÆ ÆÆ 
+ Æ  ÆÆ          Æ   ÆÆ ÆÆÆ ÆÆ Æ Æ Æ Æ    ÆÆÆÆÆ   ÆÆ Æ        ÆÆ   Æ        Æ   ÆÆ     Æ         Æ    Æ  Æ  ÆÆÆ     ÆÆ  Æ ÆÆ  Æ  ÆÆ    ÆÆÆÆÆÆ 
+ Æ            Æ Æ   Æ  Æ      Æ  ÆÆÆÆ    ÆÆÆÆ Æ   ÆÆÆÆ      ÆÆ            ÆÆ  Æ       Æ     Æ  ÆÆ           Æ    ÆÆ     Æ  Æ   ÆÆ  ÆÆÆÆÆÆÆÆ  
+ Æ   ÆÆ       Æ    Æ  ÆÆÆÆ   ÆÆ  ÆÆÆÆ    ÆÆÆÆÆÆ ÆÆ  ÆÆ      ÆÆ     ÆÆ      Æ ÆÆ     Æ   Æ      ÆÆ   ÆÆ     ÆÆ  ÆÆÆ    ÆÆ     ÆÆ  ÆÆ          
+       Æ      Æ ÆÆÆ   ÆÆ      Æ  ÆÆ ÆÆ   ÆÆ  ÆÆ             Æ   Æ  ÆÆ     Æ  ÆÆÆ     ÆÆÆ    Æ  Æ           Æ   Æ  Æ ÆÆ   ÆÆÆÆ           ÆÆÆÆ 
+ ÆÆÆ    Æ       ÆÆÆ Æ       Æ Æ  ÆÆÆÆÆ   ÆÆÆÆÆÆÆÆÆÆÆÆ    Æ ÆÆ   Æ         Æ  Æ                ÆÆ     Æ    ÆÆ  ÆÆÆ  Æ  Æ   Æ    ÆÆÆÆÆÆÆÆÆÆÆ Æ 
+ Æ   ÆÆ  ÆÆ   Æ    ÆÆÆ      Æ Æ  ÆÆÆÆÆ  ÆÆÆÆ Æ Æ  Æ Æ   Æ ÆÆ   ÆÆ Æ       Æ ÆÆ       Æ      Æ ÆÆ          ÆÆ  ÆÆ  ÆÆÆ   ÆÆ ÆÆÆÆÆ           Æ 
+       ÆÆ  ÆÆÆÆ  Æ  ÆÆ Æ      Æ  ÆÆÆÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆÆ   Æ ÆÆ        ÆÆÆ  ÆÆ Æ Æ    Æ ÆÆ       Æ    Æ             ÆÆ  ÆÆÆ           ÆÆ        
+  ÆÆÆ    ÆÆ ÆÆÆ  Æ   ÆÆÆ         ÆÆÆ Æ  ÆÆÆÆÆ ÆÆÆÆÆÆ      Æ                 Æ       ÆÆ       Æ          ÆÆÆ    ÆÆ  ÆÆÆ  ÆÆ        ÆÆÆÆÆÆÆ  Æ 
+    ÆÆÆÆÆ      ÆÆ   Æ ÆÆÆ ÆÆ Æ    ÆÆÆÆ  ÆÆÆÆÆÆÆÆÆÆÆÆ     ÆÆ           Æ     Æ       ÆÆ       ÆÆ     Æ         ÆÆ  Æ       ÆÆÆÆÆÆÆ    ÆÆ   ÆÆ 
+           ÆÆÆ ÆÆ   Æ      ÆÆÆ   Æ ÆÆÆ  Æ ÆÆÆÆÆÆÆÆÆÆ     Æ           Æ   Æ  Æ       ÆÆ      Æ                Æ  Æ    ÆÆÆÆÆÆ ÆÆÆÆÆÆÆÆÆ   ÆÆ   
+  ÆÆÆÆÆ        ÆÆ   ÆÆ           Æ Æ ÆÆ     Æ   Æ ÆÆ   Æ ÆÆ     Æ  Æ Æ             ÆÆ       ÆÆ          Æ     ÆÆ       ÆÆÆÆÆÆ    ÆÆ   ÆÆÆÆ   
+  ÆÆ           Æ    ÆÆ      ÆÆ   Æ Æ ÆÆ Æ ÆÆÆÆÆÆÆÆÆÆ   Æ Æ              ÆÆ   Æ   Æ          ÆÆ     Æ    Æ    Æ  Æ  ÆÆÆÆÆ                     
+ ÆÆÆÆ ÆÆÆÆÆÆÆ  Æ    ÆÆÆ     ÆÆ   Æ Æ ÆÆ  ÆÆÆÆÆÆÆÆÆÆ   ÆÆÆÆ              Æ       Æ           Æ           Æ    ÆÆÆ             ÆÆ    ÆÆÆÆÆÆÆÆÆ 
+            ÆÆÆÆ    ÆÆÆ     ÆÆ   Æ Æ ÆÆ ÆÆÆÆÆÆÆÆÆÆÆ    Æ             Æ                     ÆÆ       Æ   Æ    Æ  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆ ÆÆÆ           
+ ÆÆ            Æ    ÆÆ      ÆÆ   Æ ÆÆÆ  ÆÆ ÆÆÆÆÆÆÆÆ   ÆÆ            Æ   Æ         Æ        Æ                ÆÆ      ÆÆÆ   ÆÆ    Æ  ÆÆÆÆÆÆÆÆÆ 
+ ÆÆÆÆÆÆÆÆ     Æ     ÆÆ      Æ    Æ Æ    ÆÆÆ  ÆÆÆÆÆÆ   ÆÆ             Æ  Æ    Æ   Æ                    ÆÆ    Æ        ÆÆÆÆ    ÆÆÆÆÆÆÆÆ        
+  ÆÆ      ÆÆÆ Æ     ÆÆ      Æ    Æ Æ   ÆÆÆÆÆÆÆÆÆÆÆÆ   Æ                 Æ                  Æ       Æ                        ÆÆÆ              
+  Æ           Æ Æ   Æ       Æ    Æ Æ   ÆÆÆÆÆ  ÆÆÆÆÆ   Æ            ÆÆ   Æ     Æ Æ                   Æ         ÆÆÆÆÆÆÆ                ÆÆÆÆÆÆÆ 
+  Æ   ÆÆÆÆÆ   Æ    ÆÆ      ÆÆ    Æ Æ     ÆÆÆÆÆÆÆÆÆ    Æ              Æ  Æ                 Æ          ÆÆ        ÆÆ    ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ        
+  Æ    ÆÆ    Æ  Æ  ÆÆ      Æ     Æ           ÆÆÆÆÆÆ   ÆÆ            Æ   Æ                                            ÆÆÆ             ÆÆÆÆÆ   
+  Æ Æ     ÆÆ Æ  Æ  ÆÆ      Æ Æ   Æ     Æ       ÆÆÆÆ   Æ              Æ  Æ                                        ÆÆÆ        ÆÆ            ÆÆ 
+                                                                                                                                             
 
-# 💫 About Me
-🔭 I’m currently pursuing B.Tech in CSE (AIML), 2nd Year.  
-🌱 Learning Full Stack Web Development.  
-💬 Ask me about Web Development, Java, or SQL.  
-🌐 Languages: English, Hindi and Bengali.  
-⚡ Tech enthusiast with a passion for programming and building innovative solutions.  
-📍 Based in India.
+```
 
----
+</td>
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1270086761434976278)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sougata.paul.522066)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sougata_2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sougata-paul)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sougata-paul)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sougata_2006)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.sougata06@gmail.com)
+<td>
 
----
+```text
+sougata@github
+────────────────────────────
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+OS:          B.Tech CSE (AIML)
+College:     Netaji Subhash Engineering College
+Languages:   Java, JavaScript
+Backend:     Spring Boot
+Frontend:    React
+Database:    MySQL, MongoDB
 
----
+Repos:       xx
+Commits:     xxxx
+Followers:   xx
+```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sougata2006&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sougata2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sougata2006&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sougata2006&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sougata2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-# 🏅 Hacktoberfest'25 Badges
-[![Holopin Badges](https://holopin.me/sougata2006)](https://holopin.io/@sougata2006)
+</td>
+</tr>
+</table>
