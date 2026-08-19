@@ -109,9 +109,12 @@
     <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=vercel&logoColor=7DCFFF" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:work.sougatapaul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=work.sougatapaul@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=F7768E"
+    alt="Email"
+  />
+</a>
 </p>
 
 <br/>
